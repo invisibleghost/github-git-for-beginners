@@ -1,0 +1,13 @@
+git init
+git status
+git add .
+git commit -m "commit message here"
+git push origin master
+git pull 
+git remote  -v
+git remote add <name u like>  <git_url>
+git stash
+git log
+git log -2
+git fetch
+git merge
