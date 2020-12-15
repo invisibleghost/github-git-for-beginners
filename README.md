@@ -1,2 +1,3 @@
 # github-git-for-beginners
-It is for beginners who want to learn git and github - sharing my experience
+It is for beginners who are eager to learn about git and github 
+Sharing my experience how i learnt git and github
